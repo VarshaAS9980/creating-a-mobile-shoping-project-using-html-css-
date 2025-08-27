@@ -1,4 +1,4 @@
-nline Movie Ticket Booking App
+Online Movie Ticket Booking App
 
 An Android application built using Android Studio that allows users to browse movies, view show timings, select seats, and book tickets seamlessly. This project demonstrates the integration of mobile application development concepts with a real-world use case of online ticket booking.
 
